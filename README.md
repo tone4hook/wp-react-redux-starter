@@ -39,5 +39,4 @@ Add the folder to your Wordpress theme folder. *(the build needs to be complete 
 * Additional plugins are shown in the package.json
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
