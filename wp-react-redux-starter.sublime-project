@@ -1,0 +1,45 @@
+{
+	"folders":
+	[
+        {
+            "path": ".",
+            "name": "Root"
+        },
+        {
+            "path": "dist",
+            "name": "Distributed"
+        },
+        {
+            "path": "src",
+            "name": "Source"
+        },
+        {
+            "path": "src/components",
+            "name": "Components"
+        },
+        {
+            "path": "src/sass",
+            "name": "Sass"
+        },
+        {
+            "path": "src/assets",
+            "name": "Assets"
+        },
+        {
+            "path": "src/utils",
+            "name": "Utilities"
+        },
+        {
+            "path": "src/actions",
+            "name": "Actions"
+        },
+        {
+            "path": "src/reducers",
+            "name": "Reducers"
+        },
+        {
+            "path": "src/middleware",
+            "name": "Middleware"
+        }
+	]
+}
