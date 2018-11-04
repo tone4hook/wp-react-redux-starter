@@ -1,5 +1,3 @@
-import { cleanJson } from "./helpers";
-
 // Support: http://caniuse.com/promises
 export default function request() {
 	/**
