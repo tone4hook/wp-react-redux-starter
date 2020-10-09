@@ -10,12 +10,12 @@ This is meant as a starting point for a React Wordpress theme with a set up that
 
 Download, clone, or fork the repo.
 Using Terminal or Command Prompt navigate to the *wp-react-redux-starter* directory.
-* *npm update*  to update all dependencies
-* *npm start* to run local server
-* *npm run build* to build the project in development mode (compiles in dist directory)
-* *npm run prod* to build the project in production mode (compiles in dist directory)
-* *npm test* to run Jest tests
-* *npm test:watch* to use Jest to watch
+* `npm install`  to install packages and dependencies
+* `npm start` to run local server
+* `npm run build` to build the project in development mode (compiles in dist directory)
+* `npm run prod` to build the project in production mode (compiles in dist directory)
+* `npm test` to run Jest tests
+* `npm test:watch` to use Jest to watch
 
 Add the folder to your Wordpress theme folder. *(the build needs to be complete in the dist folder)*
 
